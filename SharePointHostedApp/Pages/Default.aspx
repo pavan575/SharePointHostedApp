@@ -28,7 +28,7 @@
 <asp:Content ContentPlaceHolderID="PlaceHolderMain" runat="server">
 
     <div>
-        <p id="message">
+        <p id="message" class="message">
             <!-- The following content will be replaced with the user name when you run the app - see App.js -->
             initializing...
         </p>
